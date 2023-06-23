@@ -1,0 +1,114 @@
+*{
+    margin: 1vh;
+}
+
+.login-page{
+    display: flex;
+    justify-content: center;
+}
+
+.logo img{
+    margin: 1vh;
+    width: 60px;
+    height: 50px;
+}
+
+.login-box{
+    max-width: 180vh;
+}
+
+a{
+    text-decoration: none;
+}
+
+.signin-msg{
+    text-align: center;
+    font-size: 25px;
+}
+
+.login-using-thirdparty{
+    margin: auto;
+    max-width: 500px;
+}
+
+.signIN-button{
+    display: flex;
+    justify-content: center;
+}
+
+.login-list{
+    display: flex;
+    list-style: none;
+}
+
+.thirtparty-list-item{
+    margin-top: auto;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.thirtparty-list-list-img{
+    margin: auto;
+}
+
+.signIN-button button{
+    display: flex;
+    margin: auto;
+    width: 350px;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+
+.signIN-button img{
+    width: 20px;
+    height: 20px;
+}
+
+.login-btn{
+    width: 350px;
+    height: 100px;
+}
+
+.difference-line{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+.form-items{
+    width: 350px;
+    height: 40px;
+}
+
+.forgot-password{
+    text-decoration: none;
+    text-align: center;
+}
+
+.signin-button{
+    display: flex;
+    justify-content: center;
+}
+
+.signin-button button{
+    width: 350px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: #22549F;
+}
+
+.signin-button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+
+.new-user{
+    text-align: center;
+}
